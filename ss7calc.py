@@ -24,7 +24,7 @@ help_message = '''Usage:
    set Signaling Point Code as 5-4-5 Format
 "-i", "--int"
     set Signaling Point Code as decimal format
-"-h", "--hex"
+"-x", "--hex"
     set Signaling Point Code as heximal format 
 "-u", "--itu"
     specify SPC as ITU
